@@ -20,15 +20,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.2407734"
-     inkscape:cx="102.75145"
-     inkscape:cy="25.61881"
+     inkscape:zoom="2.56"
+     inkscape:cx="60.15625"
+     inkscape:cy="56.835938"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg59" />
+     inkscape:current-layer="decoration-center" />
   <defs
      id="defs4">
     <linearGradient
@@ -38,7 +38,7 @@
          offset="0"
          id="stop69" />
       <stop
-         style="stop-color:#232323;stop-opacity:1;"
+         style="stop-color:#323232;stop-opacity:1;"
          offset="1"
          id="stop70" />
     </linearGradient>
@@ -49,7 +49,7 @@
          offset="0"
          id="stop68" />
       <stop
-         style="stop-color:#202020;stop-opacity:1;"
+         style="stop-color:#323232;stop-opacity:1;"
          offset="1"
          id="stop67" />
     </linearGradient>
@@ -93,7 +93,7 @@
          offset="0"
          id="stop1" />
       <stop
-         style="stop-color:#202020;stop-opacity:1;"
+         style="stop-color:#323232;stop-opacity:1;"
          offset="1"
          id="stop2" />
     </linearGradient>
