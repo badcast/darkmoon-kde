@@ -8,20 +8,19 @@
 ## How to install ?
 ---------------------
 
-``` 
+```bash
 git clone https://github.com/badcast/darkmoon-kde.git
 ```
 
-```
+```bash
 cd darkmoon-kde
 ```
    
-```
+```bash
 chmod +x install.sh
 ```
     
-
-```
+```bash
 ./install.sh
 ```
 
