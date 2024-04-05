@@ -13,7 +13,7 @@ RightButtons=AIX
 Shadow=true
 TextShadowOffsetX=1
 TextShadowOffsetY=1
-TitleAlignment=Center
+TitleAlignment=Left
 TitleVerticalAlignment=Center
 UseTextShadow=true
 
